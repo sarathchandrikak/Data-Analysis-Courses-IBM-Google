@@ -1,10 +1,10 @@
 # Data-Analysis-Courses-IBM-Google
 Data Analytics Specialisation by IBM & Google Offered by Coursera Platform
 
-**Data Analytics Specilization by IBM**
+**Data Analytics Specilization by IBM:**
 
 Course offered by IBM for Data Analytics Specilization covers Excel, Python, Cognos Analytics, SQL, IBM Cloud. 
-Following are the courses covered in the course:
+Following are the courses covered:
   1. Introduction to Data Analytics
   2. Excel Basics for Data Analysis
   3. Data Visualization and Dashboards with Excel and Cognos
