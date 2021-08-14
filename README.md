@@ -15,7 +15,7 @@ Following are the courses covered:
   8. Data Visualization with Python
   9. IBM Data Analyst Capstone Project
 
-Dashboard using IBM Cognos Dashboard Embedded: https://eu-gb.dataplatform.cloud.ibm.com/dashboards/87688cc8-e1c8-487f-98f8-08694561deb4/view/471de5362c942def45bdf2e407c82c052832700eb3bb8a55d4877b490e337197a83c4096c87c4f09d3175067f3ec140c98
+Dashboard using IBM Cognos Dashboard Embedded:[link](https://eu-gb.dataplatform.cloud.ibm.com/dashboards/87688cc8-e1c8-487f-98f8-08694561deb4/view/471de5362c942def45bdf2e407c82c052832700eb3bb8a55d4877b490e337197a83c4096c87c4f09d3175067f3ec140c98)
 
 
 **Google Data Analytics Professional Certificate:**
